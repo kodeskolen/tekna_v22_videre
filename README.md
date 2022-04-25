@@ -5,8 +5,7 @@ Dette repositoriet er ment for deling av kursmateriale for nettkurs i programmer
 
 ## Materiale
 ### Dag 1
-* Hvis du vil laste ned alle notatbøkene for dag 1 kan du gjøre det **[her](https://github.com/kodeskolen/tekna_h21_videre/raw/main/dag1/materiale_dag1.zip)**
-* Hvis du arbeider på Google Colab finner du notatbøkene vi arbeider med [her](dag1/google_colab)
+* Hvis du vil laste ned alle notatbøkene for dag 1 kan du gjøre det **[her](https://github.com/kodeskolen/tekna_v22_videre/raw/main/dag1/materiale_dag1.zip)**
 
 ### Bonusmateriale
 * [Her](Installere%20ekstrapakker%20til%20Anaconda%20%28blant%20annet%20plugins%20til%20Jupyter%20og%20Spyder%29.pdf) finner du en guide for å installere ekstrapakker (f.eks. Jupyter og Spyder plugins) til Anaconda.
