@@ -7,6 +7,9 @@ Dette repositoriet er ment for deling av kursmateriale for nettkurs i programmer
 ### Dag 1
 * Hvis du vil laste ned alle notatbøkene for dag 1 kan du gjøre det **[her](https://github.com/kodeskolen/tekna_v22_videre/raw/main/dag1/materiale_dag1.zip)**
 
+### Dag 2
+* Hvis du vil laste ned alle notatbøkene for dag 2 kan du gjøre det **[her](https://github.com/kodeskolen/tekna_v22_videre/raw/main/dag2/materiale_dag2.zip)**
+
 ### Bonusmateriale
 * [Her](Installere%20ekstrapakker%20til%20Anaconda%20%28blant%20annet%20plugins%20til%20Jupyter%20og%20Spyder%29.pdf) finner du en guide for å installere ekstrapakker (f.eks. Jupyter og Spyder plugins) til Anaconda.
 * En oppgavesamling med faglige relevante oppgaver er [her](bonus/faglig_relevante_oppgaver.pdf) (fasit er [her](bonus/faglig_relevante_oppgaver_fasit.pdf)).
